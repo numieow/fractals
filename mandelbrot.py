@@ -10,11 +10,11 @@ import utils as utils
 # Iterates over every coordinates 
 # Stop condition is ||z_n|| > 2
 
-HEIGHT, WIDTH = 2500, 2500
+HEIGHT, WIDTH = 7500, 7500
 MIN_X, MAX_X = -1.7, 0.7
 MIN_Y, MAX_Y = -1.25, 1.25
 X_RANGE, Y_RANGE = MAX_X - MIN_X, MAX_Y - MIN_Y
-MAX_STEPS = 1000
+MAX_STEPS = 1200
 
 # TODO : Use linspace, actually better ?
 
